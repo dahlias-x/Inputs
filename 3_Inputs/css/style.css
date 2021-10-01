@@ -1,0 +1,37 @@
+#supra {
+    border-color:blue;
+    width: 450px;
+}
+#supra:hover {
+    width:720px;
+    border-radius: 15px;
+    border-color:#3ee822;
+}
+#m2:hover {
+    width:720px;
+    border-radius: 15px;
+    border-color:#3ee822;
+}
+#m2 {
+    border-color:orange;
+    width:450px;
+}
+.headings {
+    font-style: italic;
+}
+.prices{
+    font-style: italic;
+}
+a:visited {
+    color: orange;
+}
+h1{
+    font-family: Arial black;
+}
+#submit-btn:hover{
+    background-color: orange;
+    color:white;
+}
+input:focus{
+    background-color:#3ee822 ;    
+}
